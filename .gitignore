@@ -134,3 +134,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Next.js specific
+/.next/
+/out/
+next-env.d.ts
+
